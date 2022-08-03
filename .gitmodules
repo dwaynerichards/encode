@@ -1,0 +1,3 @@
+[submodule "AssemblyxSolidity"]
+	path = AssemblyxSolidity
+	url = https://github.com/dwaynerichards/AssemblyxSolidity.git
