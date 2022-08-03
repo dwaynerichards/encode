@@ -1,0 +1,3 @@
+[submodule "hardhat-template"]
+	path = hardhat-template
+	url = https://github.com/dwaynerichards/hardhat-template.git
