@@ -1,3 +1,6 @@
 [submodule "AssemblyxSolidity"]
 	path = AssemblyxSolidity
 	url = https://github.com/dwaynerichards/AssemblyxSolidity.git
+[submodule "hardhat-template"]
+	path = hardhat-template
+	url = https://github.com/dwaynerichards/hardhat-template.git
