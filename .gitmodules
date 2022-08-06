@@ -4,3 +4,6 @@
 [submodule "hardhat-template"]
 	path = hardhat-template
 	url = https://github.com/dwaynerichards/hardhat-template.git
+[submodule "ExpertSolidityJuly"]
+	path = ExpertSolidityJuly
+	url = https://github.com/dwaynerichards/ExpertSolidityJuly.git
