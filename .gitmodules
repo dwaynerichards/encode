@@ -7,3 +7,6 @@
 [submodule "ExpertSolidityJuly"]
 	path = ExpertSolidityJuly
 	url = https://github.com/dwaynerichards/ExpertSolidityJuly.git
+[submodule "helloFoundry"]
+	path = helloFoundry
+	url = https://github.com/dwaynerichards/helloFoundry.git
